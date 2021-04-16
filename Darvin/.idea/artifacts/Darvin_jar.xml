@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Darvin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Darvin_jar</output-path>
+    <root id="archive" name="Darvin.jar">
+      <element id="module-output" name="Darvin" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/javax.websocket-api-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/javax.websocket-client-api-1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
